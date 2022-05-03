@@ -1,4 +1,3 @@
-from operator import mod
 import random #érdemes lehet a secretset biztosabb random szám generálás érdekében használni
 
 def random_odd_big_number(size):
